@@ -1,23 +1,21 @@
 # 🎁 Juego del Amigo Secreto
-
 Este es un proyecto web simple y divertido para organizar un **juego del Amigo Secreto**.  
 Permite agregar nombres, listarlos y seleccionar de forma aleatoria quién será tu amigo secreto.  
 Además, incluye la opción de reiniciar el juego para comenzar desde cero.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## 🚀 Tecnologías que se utilizaron
 
-- **HTML5** → estructura del juego.  
-- **CSS3** → estilos modernos con animaciones.  
-- **JavaScript** → lógica de agregar, listar, sortear y reiniciar.  
+- HTML5 → estructura del juego.  
+- CSS3 → estilos modernos con animaciones.  
+- JavaScript → lógica de agregar, listar, sortear y reiniciar.  
 
 ---
 
 ## 📸 Vista previa
 
-![Demo](./img/demo.png)  
-*(Puedes reemplazar esta imagen con un screenshot de tu proyecto en ejecución)*
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/c98fdfee-80bd-47de-a1a7-d65c573cf0c8" />
 
 ---
 
